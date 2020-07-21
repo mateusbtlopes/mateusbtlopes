@@ -7,7 +7,7 @@
 - 📫 How to reach me: [GitHub](https://github.com/mateusblopes/), [Email](mateus.redes@gmail.com), [Linkedin](https://www.linkedin.com/in/mateusblopes/), [Instagram](https://www.instagram.com/mateusbtlopes/);
 - ⚡ Fun fact: I walk 5,000 steps every day at home;
 
-### Olá, pessoal 👋
+### Olá pessoal 👋
 
 - 🔭 Estou trabalhando atualmente com Analytics;
 - 🌱 Estou aprendendo atualmente sobre Scrum, Machine Learning e Finanças;
