@@ -5,11 +5,11 @@
 
 - 🔭 Estou trabalhando atualmente com Power BI, Data Science e Analytics;
 - 🌱 Estou aprendendo atualmente sobre Scrum, Machine Learning e Finanças;
-- 👯 Sou tecnólogo em Redes de Computadores, Especialista em Teste de Software, BI e Analytics.
-- 😀 Tenho algumas certificações: CTFL, SFPC, SFC, SMC.
+- 👯 Sou tecnólogo em Redes de Computadores, Especialista em Teste de Software, BI e Analytics;
+- 😀 Tenho algumas certificações: CTFL, SFPC, SFC, SMC;
 - 💬 Pergunte-me sobre qualquer coisa;
-- 🌐 Acesse meu site [mateusblopes](https://mateusblopes.github.io/) e veja meu portfólio no [GitHub](https://github.com/mateusblopes/).
-- 📫 Entre em contato comigo por [E-mail](mailto:mateus.redes@gmail.com), [LinkedIn](https://www.linkedin.com/in/mateusblopes/), [Instagram](https://www.instagram.com/mateusbtlopes/) ou [Twitter](https://twitter.com/mateusblopes) ;
-- ⚡ Curiosidade: Eu ando 5.000 passos todos os dias em casa;
+- 🌐 Acesse meu site [mateusblopes](https://mateusblopes.github.io/) e veja meu portfólio no [GitHub](https://github.com/mateusblopes/);
+- 📫 Entre em contato comigo por [E-mail](mailto:mateus.redes@gmail.com), [LinkedIn](https://www.linkedin.com/in/mateusblopes/), [Instagram](https://www.instagram.com/mateusbtlopes/) ou [Twitter](https://twitter.com/mateusblopes);
+- ⚡ Curiosidade: Eu ando 5.000 passos todos os dias em casa.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mateusblopes)
