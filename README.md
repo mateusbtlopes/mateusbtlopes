@@ -8,7 +8,7 @@
 - 👯 Sou tecnólogo em Redes de Computadores, Especialista em Teste de Software, BI e Analytics;
 - 😀 Tenho algumas certificações: CTFL, SFPC, SFC, SMC;
 - 💬 Pergunte-me sobre qualquer coisa;
-- 🌐 Acesse meu site [mateusblopes](https://mateusblopes.github.io/) e veja meu portfólio no [GitHub](https://github.com/mateusblopes/);
+- 🌐 Acesse meu site [mateusblopes](https://mateusblopes.github.io/) e veja meu portfólio no [GitHub](https://github.com/mateusblopes?tab=repositories);
 - 📫 Entre em contato comigo por [E-mail](mailto:mateus.redes@gmail.com), [LinkedIn](https://www.linkedin.com/in/mateusblopes/), [Instagram](https://www.instagram.com/mateusbtlopes/) ou [Twitter](https://twitter.com/mateusblopes);
 - ⚡ Curiosidade: Eu ando 5.000 passos todos os dias em casa.
 
