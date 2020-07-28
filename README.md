@@ -1,4 +1,4 @@
-## Olá pessoal, eu sou Mateus Bruno T. Lopes 👋
+## Olá pessoal, eu sou Mateus Lopes 👋
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/mateusblopes?style=social)
 [![Linkedin Badge](https://img.shields.io/badge/-Adicione&nbsp;me&nbsp;no&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateusblopes/)](https://www.linkedin.com/in/mateusblopes/)
