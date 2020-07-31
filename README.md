@@ -10,6 +10,6 @@
 - 💬 Pergunte-me sobre qualquer coisa;
 - 🌐 Acesse meu site [mateusbtlopes](https://mateusbtlopes.github.io/) e veja meu portfólio no [GitHub](https://github.com/mateusbtlopes?tab=repositories);
 - 📫 Entre em contato comigo por [E-mail](mailto:mateus.redes@gmail.com), [LinkedIn](https://www.linkedin.com/in/mateusbtlopes/), [Instagram](https://www.instagram.com/mateusbtlopes/) ou [Twitter](https://twitter.com/mateusbtlopes);
-- ⚡ Curiosidade: Eu ando 5.000 passos todos os dias em casa.
+- ⚡ Curiosidade: Eu ando 5.000 passos todos os dias em casa 🚶 e adoro um bom vinho 🍷.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mateusbtlopes)
