@@ -6,7 +6,7 @@
 - 🔭 Estou trabalhando atualmente com Power BI, Data Science e Analytics;
 - 🌱 Estou aprendendo atualmente sobre Scrum, Machine Learning e Finanças;
 - 👯 Sou tecnólogo em Redes de Computadores, Especialista em Teste de Software, BI e Analytics;
-- 😀 Tenho algumas certificações: CTFL, SFPC, SFC, SMC;
+- 😀 Tenho algumas certificações: CTFL, SFPC, SFC, SMC, SPOC;
 - 💬 Pergunte-me sobre qualquer coisa;
 - 🌐 Acesse meu site [mateusbtlopes](https://mateusbtlopes.github.io/) e veja meu portfólio no [GitHub](https://github.com/mateusbtlopes?tab=repositories);
 - 📫 Entre em contato comigo por [E-mail](mailto:mateus.redes@gmail.com), [LinkedIn](https://www.linkedin.com/in/mateusbtlopes/), [Instagram](https://www.instagram.com/mateusbtlopes/) ou [Twitter](https://twitter.com/mateusbtlopes);
